@@ -1,0 +1,15 @@
+.ContainerPagination{
+    margin: 5px;
+    display: 'flex';
+    flex-direction: row;
+    justify-content: 'center';
+}
+
+.CurrentButton{
+    cursor: not-allowed;
+}
+
+.OtherButton{
+    color: yellowgreen;
+    cursor: ;
+}
